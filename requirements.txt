@@ -1,4 +1,5 @@
 pip>=23.0
+setuptools
 pillow==9.5.0
 streamlit==1.25.0
 tensorflow==2.18.0
